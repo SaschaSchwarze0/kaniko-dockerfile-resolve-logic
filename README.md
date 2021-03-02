@@ -1,0 +1,1 @@
+# kaniko-dockerfile-resolve-logic
